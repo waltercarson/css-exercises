@@ -1,6 +1,9 @@
-.style {
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
     background-color: yellow;
-    color: red;
-    text-align: center; 
-    font-size: 20px;
+    color: black;
 }
