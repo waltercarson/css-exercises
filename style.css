@@ -1,0 +1,21 @@
+.one,
+.three,
+.five {
+    background-color: rgb(217, 115, 103);
+    font: Veranda;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
