@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .first {
     background-color: black;
     color: white;
@@ -6,4 +7,13 @@
 .second {
     background-color: yellow;
     color: black;
+=======
+.avatar.proportioned {
+    height: auto;
+    width: 100;
+}
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+>>>>>>> ac0c51e (Added chaining to title)
 }
